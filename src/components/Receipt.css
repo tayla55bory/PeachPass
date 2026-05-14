@@ -1,0 +1,10 @@
+.receipt-card {
+  display: flex;
+  justify-content: space-between;
+  padding: 15px;
+  border-bottom: 1px solid #eee;
+}
+.price {
+  color: #2ecc71;
+  font-weight: bold;
+}

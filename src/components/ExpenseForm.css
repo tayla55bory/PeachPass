@@ -1,0 +1,17 @@
+.expense-form {
+  display: flex;
+  gap: 10px;
+  margin-bottom: 30px;
+}
+.expense-form input {
+  padding: 10px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+.expense-form button {
+  background-color: #ff6b6b;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  cursor: pointer;
+}

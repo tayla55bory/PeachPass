@@ -1,0 +1,8 @@
+{
+  "short_name": "PeachPass",
+  "name": "PeachPass Toll Tracker",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#ff6b6b",
+  "background_color": "#ffffff"
+}

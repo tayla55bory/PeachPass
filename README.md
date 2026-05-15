@@ -18,9 +18,9 @@ With its intuitive interface, users can input specific trip data, monitor their 
 *   **Jest:** For unit testing components.
 
 ## Author
-*   **Name:** 
-*   **Email:** 
-*   **Website:** 
+*   **Name:** tayla
+*   **Email:** tayla55bory@outlook.com
+*   **Website:** [PeachPass](https://www.peach-pass.com)
 *   **Bio:** Alex is a Senior Full-Stack Engineer with 12+ years of experience specializing in fintech and logistics software. Known for an altruistic approach to coding, Alex frequently mentors junior developers and contributes to open-source transit projects. Mastering React and Node.js, Alex's mission is to make daily commuting data accessible to everyone.
 
 ## Getting Started
